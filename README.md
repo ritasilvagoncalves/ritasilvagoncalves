@@ -5,7 +5,7 @@
 ### 🎓 About me:
 - 🎓 **Studying**: Science and Technology (BC&T) at UFABC  
 - 🚀 **Future plans**: Pursuing a postgraduate degree in Aerospace Engineering at UFABC  
-- 💼 **Currently working as**: Data Engineer, developing in **PLSQL** and working with **Databricks**  
+- 💼 **Currently working as**: Data Engineer, developing in **PLSQL** on **Oracle Database** and working on **project development in Databricks**  
 - 📈 **Career goal**: Expanding knowledge and skills in Data Engineering  
 
 ### 🛠️ Main skills:
